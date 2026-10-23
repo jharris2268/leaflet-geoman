@@ -1,3 +1,8 @@
+## Changes from original
+
+* Line / Arc / Clothoid paths
+
+
 <p align="center">  
   <a href="https://geoman.io">  
     <img width="130" alt="Geoman Logo" src="https://assets.geoman.io/assets/logo_white_bg.svg" />  
