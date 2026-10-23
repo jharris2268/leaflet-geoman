@@ -1,4 +1,4 @@
-## Changes from original
+## Intended changes from original
 
 * Line / Arc / Clothoid paths
 
